@@ -1,0 +1,6 @@
+System.out.println("Nome: ");
+        Scanner sc = new Scanner(System.in);
+        String nome = sc.nextLine();
+        System.out.println("Sou aluno do Level 1 do CWI reset! Me chamo " + nome);
+    }
+}
